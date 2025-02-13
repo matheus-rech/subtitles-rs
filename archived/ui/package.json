@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "bs-jest": "^0.2.0",
-    "electron": "1.7.9",
+    "electron": "22.3.25",
     "electron-builder": "^19.42.1",
     "electron-react-devtools": "^0.5.2",
     "electron-webpack": "1.11.0",
